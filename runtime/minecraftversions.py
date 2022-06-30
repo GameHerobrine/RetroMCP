@@ -237,46 +237,46 @@ versions = {
     },
     "server": {
         "c1.2": {
-            "url": "https://betacraft.pl/server-archive/minecraft/c1.2.zip"
+            "url": "https://files.betacraft.uk/server-archive/classic/c1.2.zip"
         },
         "a0.2.0_01": {
-            "url": "https://betacraft.pl/server-archive/minecraft/a0.2.0_01.jar"
+            "url": "https://files.betacraft.uk/server-archive/alpha/a0.2.0_01.jar"
         },
         "a0.2.1": {
-            "url": "https://betacraft.pl/server-archive/minecraft/a0.2.1.jar"
+            "url": "https://files.betacraft.uk/server-archive/alpha/a0.2.1.jar"
         },
         "b1.4_01": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.4_01.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.4_01.jar"
         },
         "b1.5_02": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.5_02.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.5_02.jar"
         },
         "b1.6.4": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.6.4.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.6.4.jar"
         },
         "b1.6.5": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.6.5.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.6.5.jar"
         },
         "b1.6.6": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.6.6.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.6.6.jar"
         },
         "b1.7.2": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.7.2.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.7.2.jar"
         },
         "b1.7.3": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.7.3.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.7.3.jar"
         },
         "b1.8.1": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.8.1.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.8.1.jar"
         },
         "b1.8": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.8.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/b1.8.jar"
         },
         "b1.8-pre1": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.8-pre1-2.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/prerelease/b1.8-pre1-091358.jar"
         },
         "b1.8-pre2": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.8-pre2.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/prerelease/b1.8-pre2.jar"
         },
         "b1.9-pre1": {
             "url": "http://assets.minecraft.net/1_9-pre1/minecraft_server.jar"
@@ -291,7 +291,7 @@ versions = {
             "url": "http://assets.minecraft.net/1_9-pre4/minecraft_server.jar"
         },
         "b1.9-pre5": {
-            "url": "https://betacraft.pl/server-archive/minecraft/b1.9-pre5.jar"
+            "url": "https://files.betacraft.uk/server-archive/beta/prerelease/b1.9-pre5.jar"
         },
         "b1.9-pre6": {
             "url": "http://assets.minecraft.net/1_9-pre6/minecraft_server.jar"
