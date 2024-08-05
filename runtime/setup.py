@@ -153,7 +153,7 @@ class InstallMC:
         for version in os.listdir(self.confdir):
             if os.path.isdir(os.path.join(self.confdir, version)) and version != "patches" and version != "custom" and not os.path.exists(os.path.join(self.confdir, version, "DISABLED")):
                 versions.append(version)
-
+                versions.sort()
         inp = ""
         confname = inp
         foundmatch = False
